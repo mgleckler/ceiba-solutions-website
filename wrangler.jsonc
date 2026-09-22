@@ -1,0 +1,9 @@
+{
+  "$schema": "https://developers.cloudflare.com/workers/wrangler/config-schema.json",
+  "name": "ceiba-solutions-website",
+  "compatibility_date": "2026-09-22",
+  "assets": {
+    "directory": "./"
+  },
+  "workers_dev": true
+}
